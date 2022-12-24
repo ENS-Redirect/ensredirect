@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "ipfs-http-client":"56.0.3",
-    "@ensdomains/eth-ens-namehash":"2.0.15",
+    "@ensdomains/eth-ens-namehash":"latest",
     "web3": "latest",
     "create-html":"latest"
   }
